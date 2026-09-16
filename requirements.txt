@@ -1,0 +1,7 @@
+pandas
+numpy
+biopython
+scikit-learn
+matplotlib
+seaborn
+requests
