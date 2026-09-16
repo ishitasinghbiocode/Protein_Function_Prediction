@@ -1,0 +1,4 @@
+Model,Baseline_Mean_Percent,Baseline_SD_Percent,Dipeptide_Mean_Percent,Dipeptide_SD_Percent,Change_Percentage_Points
+Logistic Regression,32.83,4.99,38.56,6.57,5.72
+Random Forest,40.19,7.16,39.11,9.41,-1.08
+SVM,36.46,5.49,38.0,2.82,1.54
