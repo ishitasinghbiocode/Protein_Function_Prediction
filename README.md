@@ -122,22 +122,38 @@ Feature importance should be interpreted as model-specific predictive contributi
 ## Project Structure
 
 Protein_Function_Prediction/
+
 ├── Protein_Function_Prediction.ipynb
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── data/
+
 │   └── dataset_information.md
+
 ├── results/
+
 │   ├── final_project_results.csv
+
 │   ├── final_model_comparison.csv
+
 │   └── feature_importance.csv
+
 └── figures/
-    ├── baseline_vs_dipeptide_accuracy.png
-    ├── model_accuracy_comparison.png
-    ├── top_10_feature_importance.png
-    ├── logistic_regression_confusion_matrix.png
-    ├── random_forest_confusion_matrix.png
-    └── svm_confusion_matrix.png
+
+   ├── baseline_vs_dipeptide_accuracy.png
+ 
+   ├── model_accuracy_comparison.png
+    
+   ├── top_10_feature_importance.png
+    
+   ├── logistic_regression_confusion_matrix.png
+    
+   ├── random_forest_confusion_matrix.png
+    
+   └── svm_confusion_matrix.png
 
 ## Reproducibility
 
@@ -194,7 +210,6 @@ The work provides a foundation for developing more sophisticated protein-functio
 Ishita Singh
 
 B.Tech Bioinformatics
-Isabella Thoburn College of Professional Studies
 AKTU
 
 ## License
